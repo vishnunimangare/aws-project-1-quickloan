@@ -34,7 +34,7 @@ Frontend: HTML, CSS
 
 Backend: PHP, MySQL (MariaDB)
 
-Cloud: AWS CloudFormation, EC2, VPC, Security Groups, Route Tables
+Cloud: EC2, VPC, Security Groups, Route Tables
 
 OS: Amazon Linux 2023
 
